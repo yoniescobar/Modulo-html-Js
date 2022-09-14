@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "RWCH/pHCP7TRhoYM+H4UbRbxQPpv83pU3NBKY1vWqH8=",
+  "Source": "Northwind",
+  "BasePath": "_content/Northwind",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind\\wwwroot",
+      "Source": "Northwind",
+      "ContentRoot": "C:\\Users\\YONI\\Desktop\\Northwind\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\YONI\\Desktop\\Northwind\\Northwind\\wwwroot\\index.html",
+      "SourceId": "Northwind",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YONI\\Desktop\\Northwind\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

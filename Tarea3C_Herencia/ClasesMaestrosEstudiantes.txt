@@ -1,0 +1,23 @@
+Clase ABSTRACT Persona
+Atributos
+-Nombres
+-Apellidos
+-Carne
+-FechaNacimiento
+(metodo)
+-CrearContrasena(string contrasena)
+
+
+Clase Maestro: Persona
+
+Clase Alumno: Persona
+
+Clase Grado
+Atributos
+-Lista<Alumnos>
+-Limite
+
+(Metodo)
+-Registro(Estudiante e)
+
+Clase GradoException.. 

@@ -1,0 +1,15 @@
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\bin\Debug\net6.0\Tarea1C Sharp.exe
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\bin\Debug\net6.0\Tarea1C Sharp.deps.json
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\bin\Debug\net6.0\Tarea1C Sharp.runtimeconfig.json
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\bin\Debug\net6.0\Tarea1C Sharp.dll
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\bin\Debug\net6.0\Tarea1C Sharp.pdb
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.csproj.AssemblyReference.cache
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.AssemblyInfoInputs.cache
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.AssemblyInfo.cs
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.dll
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\refint\Tarea1C Sharp.dll
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.pdb
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\Tarea1C Sharp.genruntimeconfig.cache
+C:\Users\YONI\source\Tareas CSharp\Tarea1C Sharp\Tarea1C Sharp\obj\Debug\net6.0\ref\Tarea1C Sharp.dll

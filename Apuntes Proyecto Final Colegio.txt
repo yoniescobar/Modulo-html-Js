@@ -1,0 +1,30 @@
+Referencia Modelo en Capas con Entity Framework https://www.youtube.com/watch?v=POjSziC71yw
+
+1. Crear el Proyecto forms c#  (Nombre Proyecto: AppColegio   Nombre Solucion: CapaPresentacion )
+2. Agreagar Class Library a Solucion del proyecto con el Nombre: CapaDato  -- Eliminamos la clase por default
+3. Repetimos paso 2 para CapaNegocio.
+4. Click derecho en Referencias y Agreagar Referencia en CapaNegocio---CapaDato
+5. Click derecho en Referencias y Agreagar Referencia en CapaPresentacion--->CapaDato y CapaPresentacion--->Negocio 
+ (puedo usar Scanff en CapaDato para agregar clases y Referencia).
+
+6. Instalar los paquetes nuget
+   Microsoft.EntityFrameworkCore.SqlServer(6.0.6 LST) 
+   Microsoft.EntityFrameworkCore.Tools(6.0.6 LST)
+   Microsoft.EntityFrameworkCore 6.0.6 LST
+   Microsoft.EntityFrameworkCore.Design (6.0.6 LST)
+
+7. Seleccionar el proyecto predeterminado y aplicar el Scaffold --> Aplica en conjuntos los DataAnnotations;
+   a) Scaffold con  Tablas Seleccionadas
+   Scaffold-DbContext "Data source=MSI; Initial Catalog=Colegio; user id=soporte; password=12003906;"Microsoft.EntityFrameworkCore.SqlServer -table Students,Grades,Subjects -UseDatabaseNames -DataAnnotations -Context ApplicationDbContext -ContextDir Datos -OutputDir Models
+   b) Scaffold con  Todas la tablas
+   Scaffold-DbContext "Data source=MSI; Initial Catalog=Colegio; user id=soporte; password=12003906;"Microsoft.EntityFrameworkCore.SqlServer -UseDatabaseNames -DataAnnotations -Context ApplicationDbContext -ContextDir Datos -OutputDir Models
+
+   c) Por si hay cambios en la base de datos
+   Scaffold-DbContext "Data source=MSI; Initial Catalog=Colegio; user id=soporte; password=12003906;"Microsoft.EntityFrameworkCore.SqlServer -UseDatabaseNames -DataAnnotations -Context ApplicationDbContext -ContextDir Datos -OutputDir Models -force
+
+8. El gridAsignatura 
+       MultiSelect = False
+       ReadOnly = True
+       SelectionMode = FullRowSelect
+
+ 

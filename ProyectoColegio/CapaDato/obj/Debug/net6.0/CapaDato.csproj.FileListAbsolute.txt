@@ -1,0 +1,14 @@
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\bin\Debug\net6.0\CapaDato.deps.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\bin\Debug\net6.0\CapaDato.runtimeconfig.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\bin\Debug\net6.0\CapaDato.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\bin\Debug\net6.0\CapaDato.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.csproj.AssemblyReference.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.AssemblyInfoInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.AssemblyInfo.cs
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\refint\CapaDato.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\CapaDato.genruntimeconfig.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\ProyectoColegio\CapaDato\obj\Debug\net6.0\ref\CapaDato.dll

@@ -1,0 +1,37 @@
+﻿@page
+@using SampleDataLibrary.Data
+@model NorthwindM.Pages.CategoriasModel
+@{
+}
+
+<div class="row">
+    <h1 class="display-2">Lista de Categorias</h1>
+    <table id="tblCategorias" class=" table table-hover table-default">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Nombre Categorias</th>
+                <th>Descripción</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Categories is not null)
+            {
+                @foreach (Category categoria in Model.Categories)
+                {
+                    <tr>
+                        <td>@categoria.CategoryName</td>
+                        <td>@categoria.Description</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+@section scripts{
+    <script>
+        $(document).ready(function(){
+            $('#tblCategorias').DataTable();
+        });
+    </script>
+}
+  

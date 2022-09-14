@@ -1,0 +1,16 @@
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\bin\Debug\net5.0\Tarea4C_Serializar.exe
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\bin\Debug\net5.0\Tarea4C_Serializar.deps.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\bin\Debug\net5.0\Tarea4C_Serializar.runtimeconfig.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\bin\Debug\net5.0\Tarea4C_Serializar.runtimeconfig.dev.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\bin\Debug\net5.0\Tarea4C_Serializar.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\bin\Debug\net5.0\Tarea4C_Serializar.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.csproj.AssemblyReference.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.AssemblyInfoInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.AssemblyInfo.cs
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.csproj.CoreCompileInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\refint\Tarea4C_Serializar.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\Tarea4C_Serializar.genruntimeconfig.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea4C_Serializar\Tarea4C_Serializar\obj\Debug\net5.0\ref\Tarea4C_Serializar.dll

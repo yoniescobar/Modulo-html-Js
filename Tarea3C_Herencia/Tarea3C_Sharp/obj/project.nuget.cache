@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "unogPjlDIuhzn1jWFJxgJsi5pW8syuyAXOi8qjSiZKUNcxXbjhpjAzktL1aeBdO7VI6BTHjOXEjSRf5zfjEQNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YONI\\Documents\\cursosLibres\\VSNETGalileo\\Csharp\\TAREAS\\Tarea3C_Herencia\\Tarea3C_Sharp\\Tarea3C_Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YONI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

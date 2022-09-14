@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bgGjhrh71h3XnF98Ur715f6h7QnpuPRnfc0JWBM3wRuOz/40+isp3cH+HsUzoVqp6JqrFGgj/X/zkDTGnGy2/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YONI\\Documents\\cursosLibres\\VSNETGalileo\\Csharp\\TAREAS\\Tarea2C_Sharp\\Tarea2C_Sharp\\Tarea2C_Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YONI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

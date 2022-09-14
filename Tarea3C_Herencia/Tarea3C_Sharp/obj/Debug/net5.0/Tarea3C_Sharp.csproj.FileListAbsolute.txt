@@ -1,0 +1,16 @@
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\bin\Debug\net5.0\Tarea3C_Sharp.exe
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\bin\Debug\net5.0\Tarea3C_Sharp.deps.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\bin\Debug\net5.0\Tarea3C_Sharp.runtimeconfig.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\bin\Debug\net5.0\Tarea3C_Sharp.runtimeconfig.dev.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\bin\Debug\net5.0\Tarea3C_Sharp.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\bin\Debug\net5.0\Tarea3C_Sharp.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.csproj.AssemblyReference.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.AssemblyInfoInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.AssemblyInfo.cs
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\refint\Tarea3C_Sharp.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\Tarea3C_Sharp.genruntimeconfig.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea3C_Sharp\Tarea3C_Sharp\obj\Debug\net5.0\ref\Tarea3C_Sharp.dll

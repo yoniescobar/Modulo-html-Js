@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YnjPhDsIkLTZTu2mb3mN9iY1ASIeh1yc/0n7keCYpa1pZYKctZbzMRAuAMjY300xe8fk2OoU4H7z967Mv2+jcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YONI\\Documents\\cursosLibres\\VSNETGalileo\\Csharp\\TAREAS\\Tarea4C_Serializar\\Tarea4C_Serializar\\Tarea4C_Serializar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YONI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

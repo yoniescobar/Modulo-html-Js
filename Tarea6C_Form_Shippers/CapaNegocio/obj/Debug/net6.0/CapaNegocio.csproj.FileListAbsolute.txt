@@ -1,0 +1,15 @@
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\bin\Debug\net6.0\CapaDato.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\bin\Debug\net6.0\CapaDato.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\YONI\Documents\cursosLibres\VSNETGalileo\Csharp\TAREAS\Tarea6C_Form_Shippers\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
